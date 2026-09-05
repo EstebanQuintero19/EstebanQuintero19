@@ -23,7 +23,7 @@
 
 ### 🚀 About me
 
-Junior Full-Stack Developer and Technologist in Software Analysis and Development (SENA), with hands-on experience building **end-to-end applications**: APIs and backend architectures in **Python** (Django, Flask), **Node.js**, and **C# / .NET**, along with front-end interfaces in **ReactJS** and **Angular**. I'm also passionate about data automation (web scraping) and deploying infrastructure with **Docker**. I work under agile methodologies (Scrum) and **SOLID** principles, always aiming for scalable and maintainable code.
+Full-Stack Developer and Technologist in Software Analysis and Development (SENA), with hands-on experience building **end-to-end applications**: APIs and backend architectures in **Python** (Django, Flask), **Node.js**, and **C# / .NET**, along with front-end interfaces in **ReactJS** and **Angular**. I'm also passionate about data automation (web scraping) and deploying infrastructure with **Docker**. I work under agile methodologies (Scrum) and **SOLID** principles, always aiming for scalable and maintainable code.
 
 - 🔭 Currently working on **microservices architectures** and **ETL/ELT** processes.
 - 🌱 Studying **Systems Engineering** (8th semester) at Universidad Católica de Oriente (UCO), deepening my knowledge of Java (Spring Boot, WebFlux) and .NET.
